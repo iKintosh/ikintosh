@@ -9,6 +9,15 @@
 
 <br/> 
 
+You may find my publication and conference talks:
+
+- [PyData 2022](https://youtu.be/8bc0WJENcSY)
+- [Medium article about time series demand forecasting with ETNA](https://medium.com/its-tinkoff/time-series-forecasting-with-etna-first-steps-dfaf90c5b919)
+- [PyCon 2021](https://youtu.be/VxWHLEFgXnE)
+- [TimeSeries MeetUp 2022](https://youtu.be/N1Xy3EqY058)
+
+<br/> 
+
 ### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/ilekseev/">
   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/>
