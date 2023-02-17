@@ -13,6 +13,7 @@ You may find my publication and conference talks:
 
 - [PyData 2022](https://youtu.be/8bc0WJENcSY)
 - [Medium article about time series demand forecasting with ETNA](https://medium.com/its-tinkoff/time-series-forecasting-with-etna-first-steps-dfaf90c5b919)
+- Medium article about fundamentals of Neural Networks [part 1](https://medium.com/@ilekseev/write-your-own-neural-network-from-scratch-part-1-15931de8579b), _part 2 (to be released)_
 - [PyCon 2021](https://youtu.be/VxWHLEFgXnE)
 - [TimeSeries MeetUp 2022](https://youtu.be/N1Xy3EqY058)
 
