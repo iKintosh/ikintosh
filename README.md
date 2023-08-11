@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on predictive maintenance systems
 - 🌱 And trying to find time for open source contributions
-- 👯 I’m looking to collaborate on developing [ETNA package](https://github.com/tinkoff-ai/etna)
+- 👯 I’m looking to collaborate on developing [ETNA package](https://github.com/etna-team/etna)
 - 💬 Ask me about time series and open source development
 
 <br/> 
