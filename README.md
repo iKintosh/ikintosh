@@ -2,7 +2,7 @@
 
 <br/> 
 
-- 🔭 I’m currently working on predictive maintenance systems
+- 🔭 I’m currently working on Advertisment platform at bol.com
 - 🌱 And trying to find time for open source contributions
 - 👯 I’m looking to collaborate on developing [ETNA package](https://github.com/etna-team/etna)
 - 💬 Ask me about time series and open source development
