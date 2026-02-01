@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on Advertisment platform at bol.com
 - 🌱 And trying to find time for open source contributions
-- 👯 Ready to collaborate on developing [ETNA package](https://github.com/etna-team/etna)
 - 💬 Ask me open source, Python and Rust development
+- [My telegram channel](https://t.me/unwrapml)
 
 <br/> 
 
